@@ -7,8 +7,7 @@ Power BI - Main Data Visualization Platform used for report creation.
 Power Query - Data transformation and cleaning layer for reshaping and preparing the data. 
 DAX (Data Analysis Expressions) - Used for calcuated measures,dynamic visuals, and conditional logic. 
 Data Modeling - Relationships established among tables to enable cross-filteringand aggregation. 
-Interactive Visualizations 
-KPI Cards & Slicers
+KPI Cards & Slicers - Created an interactive dashboard using KPI cards and slicers to enable dynamic filtering and real-time analysis of stock market performance and investment trends.
 
 Portfolio Performance KPIs :
 Total Market Capitalization: 417M
@@ -23,16 +22,20 @@ Sector Analysis:
 Sector-wise Profit & Loss comparison.
 Investment distribution across sectors.
 Identification of top-performing sectors such as Energy and IT.
+
 Company-Level Insights:
 P&L analysis by company.
 Return percentage comparison among companies.
 Performance tracking of major stocks including Reliance, TCS, Infosys, Apple, Microsoft, Amazon, and others.
+
 Exchange Analysis:
 Investment comparison between NSE and NASDAQ.
 Exchange-wise profitability analysis.
+
 Portfolio Allocation:
 Treemap visualization showing stock allocation by value.
 Easy identification of high-weightage holdings within the portfolio.
+
 Trading Trend Analysis:
 Monthly traded value trend visualization.
 Helps monitor market activity and trading behavior over time.
