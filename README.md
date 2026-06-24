@@ -3,6 +3,12 @@ Title: Stock-Market-Data-Dashboard
 Description: This project presents an interactive Stock Data Analysis Dashboard developed to analyze portfolio performance, investment distribution, stock returns, and trading activity across multiple companies and sectors. The dashboard enables users to track key financial metrics and gain actionable insights through dynamic visualizations.
 
 Technologies used:
+Power BI - Main Data Visualization Platform used for report creation. 
+Power Query - Data transformation and cleaning layer for reshaping and preparing the data. 
+DAX (Data Analysis Expressions) - Used for calcuated measures,dynamic visuals, and conditional logic. 
+Data Modeling - Relationships established among tables to enable cross-filteringand aggregation. 
+Interactive Visualizations 
+KPI Cards & Slicers
 
 Portfolio Performance KPIs :
 Total Market Capitalization: 417M
