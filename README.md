@@ -46,7 +46,7 @@ Portfolio delivered a positive return with strong performance from selected stoc
 Through this project, I learned how to transform stock market data into meaningful insights that help investors evaluate portfolio performance, monitor risk, and make data-driven investment decisions.
 
 Screenshot:![Dashboard Preview](https://github.com/R123-Data/Stock-Market-Data-Dashboard/blob/main/01.JPG)
-![Dashboard Preview](
+![Dashboard Preview](https://github.com/R123-Data/Stock-Market-Data-Dashboard/blob/main/02.JPG)
 
 
 
